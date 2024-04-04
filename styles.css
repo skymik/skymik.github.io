@@ -25,7 +25,29 @@ body {	color: green;
 		flex-direction: row;
 		flex-wrap: wrap;
 		justify-content: space-between;
-	}}
+	}
+
+.header-main .div-1{
+	background-color:#ca521d;
+	width: 300;
+
+}
+.header-main .div-2{
+	background-color:#06053f;
+	width: 300;
+
+
+}
+.header-main .div-3{
+	background-color:#130f0f;
+	width: 300;
+
+
+}
+
+
+
+
 p{
 	color: #ca521d;
 	font-size: 20px;
