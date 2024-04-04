@@ -17,6 +17,15 @@ body {	color: green;
 
 }
 
+	.header-main {
+		width: 100%;
+		height: 50px;
+		background-color: #000;
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: space-between;
+	}}
 p{
 	color: #ca521d;
 	font-size: 20px;
@@ -34,7 +43,7 @@ h1, h2 {
 	text-align: center;
 	text-decoration: underline; /* Kommentointi*/
 	letter-spacing: 10px;
-	background-color: red;
+	background-color:#430b0b;
 }
 
 
