@@ -26,7 +26,9 @@ body {	color: green;
 		flex-wrap: wrap;
 		justify-content: space-between;
 	}
-
+	.header-main .div  {
+		height: 45px;
+	}
 .header-main .div-1{
 	background-color:#ca521d;
 	width: 300;
