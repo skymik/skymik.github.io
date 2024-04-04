@@ -29,7 +29,7 @@ body {	color: green;
 	.header-main .div  {
 		height: 45px;
 	}
-.header-main .div-1{
+.header-main .div-1 {
 	background-color:#ca521d;
 	width: 300;
 
@@ -37,8 +37,6 @@ body {	color: green;
 .header-main .div-2{
 	background-color:#06053f;
 	width: 300;
-
-
 }
 .header-main .div-3{
 	background-color:#130f0f;
