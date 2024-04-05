@@ -25,3 +25,6 @@ Minulle saa halutessa:
 
 
 #### _Eipä mulla muuta tähän_.
+
+
+![auto](img/auto.JPG)
