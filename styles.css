@@ -150,4 +150,43 @@ li {
 	 background-color: yellow;
  	 font-size: 11px;
 }
+/*
 
+@media only screen and (max-width: 600px) {
+
+	.wrapper-main {
+		width: 100% ;
+		background-color: orangered;
+	}
+
+
+}
+
+
+
+@media only screen and (min-width: 601px) {
+
+	.wrapper-main {
+		width: 100% ;
+		background-color: blueviolet;
+	}
+}
+
+
+
+@media only screen and  (min-width: 768px) {
+
+	.wrapper-main {
+		width: 100% ;
+		background-color: green	;
+	}
+}
+
+@media only screen and  (min-width: 992px) {
+
+	.wrapper-main {
+		width: 1000px ;
+		background-color: rgb(204, 151, 7);
+	}
+} */
+	/*breaktrough point*/
