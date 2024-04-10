@@ -3,4 +3,4 @@
 ### Pitäisi siis
 ### Ja näkyyhän ne
 
-## Listätty projektille oma linkki
+## Listätty spede.html josta aukeaa linkki/linkit eri projekteille.
