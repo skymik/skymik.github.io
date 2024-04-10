@@ -1,0 +1,208 @@
+/**{ 
+	text-decoration:overline;
+	
+} */
+
+
+body {	color: rgb(237, 241, 237); 
+	background-color: #000303;
+
+	text-align: center;
+
+	/*background: #a2c3ce url("img/auto.jpg") repeat left top;
+	
+
+
+}
+
+	.header-main {
+		width: 100%;
+		height: 50px;
+		background-color: rgb(175, 118, 118);
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: space-between;
+	}
+	.header-main .div  {
+		height: 45px;
+	}
+.header-main .div-1 {
+	background-color:#ca521d;
+	width: 300;
+
+}
+.header-main .div-2{
+	background-color:#06053f;
+	width: 300;
+}
+.header-main .div-3{
+	background-color:#130f0f;
+	width: 300;
+
+
+}
+
+*/
+
+}
+.wrapper-main {
+	width: 1200px; ;
+	padding: 100xp 0 ;
+	margin:0 auto;
+	border: 5px solid yellow;
+}
+
+p{
+	/*color: #ca521d;
+	
+	font-family: "Italic bold", serif,"Times New Roman", Arial, serif;
+	text-indent: 20px;	
+	text-transform: uppercase;
+	line-height: 1px;
+	word-spacing: 1px;*/
+	font-size: 2.6rem;
+}
+
+/*h1, h2 {
+	color: #666;
+	font-size: 32px;
+	font-family: verdana, Lucida, Arial, serif;
+	text-align: center;
+	text-decoration: underline;  Kommentointi
+	letter-spacing: 10px;
+	background-color:#430b0b;*/
+}
+
+
+
+
+h1{
+	/*color:#000;
+
+	font-family: verdana, Lucida, Arial, serif;
+	text-align: center;
+	text-decoration: underline; 
+	letter-spacing: 2px;*/
+	font-size: 9.2rem;
+}
+/*
+h2 { 	
+	font-family: italic, serif;
+	
+
+}
+
+h3 {	border-style: inset;
+}
+
+a  { 
+	color:#42a795
+}
+a:hover, a:focus {
+
+	color:blue;	
+}
+
+a:active {
+	background-color: yellow;
+}
+
+
+
+
+img {
+	border-style: dashed;
+	border-color: green;
+	border-width: thick;
+	
+}
+
+ol {	border-style: inset;
+	font-weight: bold;
+	font-family: Lucida, Helvetica, serif;
+}
+
+dl { 	
+	color: #e96f4b;
+	font-style: italic;
+	font-size: 1em;
+
+}
+
+
+
+li {
+
+	color: #666;
+	font-family: georgia, serif;
+	font-size: 16px;
+	list-style-type: upper-roman;
+}
+
+
+.logo {
+	text-align:center;
+}
+
+.nav {
+	text-align: center; 
+
+}
+
+.footer {
+	 background-color: yellow;
+ 	 font-size: 11px;
+} */
+
+a {
+	display: block;
+	width: fit-content;
+	border: 3px solid floralwhite;
+	padding: 10px 20px;
+	margin: 20px auto 0;
+	font-size: 1.6rem;
+
+}
+
+@media only screen and (max-width: 600px) {
+
+	.wrapper-main {
+		width: 100% ;
+		background-color: orangered;
+	}
+	/*breaktrough point*/
+
+}
+
+
+
+@media only screen and (min-width: 601px) {
+
+	.wrapper-main {
+		width: 100% ;
+		background-color: blueviolet;
+	}
+}
+
+
+
+@media only screen and  (min-width: 768px) {
+
+	.wrapper-main {
+		width: 100% ;
+		background-color: green	;
+	}
+}
+
+@media only screen and  (min-width: 992px) {
+
+	.wrapper-main {
+		width: 1000px ;
+		background-color: rgb(204, 151, 7);
+	}
+}
+/* <600px, 601px, 768px, 992px, 1200px> */
+
+
+/**/	
